@@ -178,7 +178,8 @@ CLIENT_URL=http://localhost:5173
 
 ---
 
-## Live  
+## Live 
+business-erp-e13p.vercel.app 
 
 
 ## Demo Accounts
@@ -191,7 +192,3 @@ CLIENT_URL=http://localhost:5173
 
 
 © 2025 RH BANDHAN. All rights reserved.
-
-
-
-postgresql://postgres:BizErp420@BizErp420@db.vtsbgdptiphjsptmlwph.supabase.co:5432/postgres
