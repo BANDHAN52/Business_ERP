@@ -15,7 +15,7 @@ A full-stack ERP system built for small businesses with 6 complete modules.
 | Database   | PostgreSQL                          |
 | Auth       | JWT (Access + Refresh Tokens)       |
 | Upload     | Multer (image upload)               |
-| Deploy     | Vercel (frontend) + Railway (backend) |
+| Deploy     | Vercel (frontend) + Render (backend) |
 
 ---
 
