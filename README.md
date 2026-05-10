@@ -179,7 +179,7 @@ CLIENT_URL=http://localhost:5173
 ---
 
 ## Live 
-business-erp-e13p.vercel.app 
+https://business-erp-e13p.vercel.app/ 
 
 
 ## Demo Accounts
